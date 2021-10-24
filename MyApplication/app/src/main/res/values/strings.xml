@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading"><b>Alphabet Converter :</b></string>
+    <string name="enter"><i>Enter one Alphabet </i></string>
+    <string name="r"><i><b>Result :</b></i></string>
+    <string name="result"><b> </b></string>
+    <string name="convert"><b>Convert</b></string>
+
+</resources>
