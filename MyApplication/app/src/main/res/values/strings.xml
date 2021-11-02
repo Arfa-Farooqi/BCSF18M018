@@ -5,5 +5,9 @@
     <string name="r"><i><b>Result :</b></i></string>
     <string name="result"><b> </b></string>
     <string name="convert"><b>Convert</b></string>
-
+    <string name="welcome"><b>WELCOME</b></string>
+    <string name="rollNo"><b>Roll # : BCSF18M018</b></string>
+    <string name="repo"><b>Repository Link :</b></string>
+    <string name="link"><b>https://github.com/Arfa-Farooqi/BCSF18M018</b></string>
+    <string name="next"><b>NEXT</b></string>
 </resources>
