@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name"> Assignment-3-Makhārij al-ḥurūf</string>
+    <string name="title"><b>Makhārij Al-Hurūf</b></string>
+    <string name="statement">Choose any of the following :</string>
+    <string name="exam">Exam</string>
+    <string name="practice">Practice</string>
+    <string name="aa"><b>أ / ہ</b></string>
+    <string name="ha"><b>ع / ح</b></string>
+    <string name="kha"><b>غ / خ</b></string>
+    <string name="kaf"><b>ق / ک</b></string>
+    <string name="kkf"><b>ق </b></string>
+    <string name="kaaf"><b> ک</b></string>
+    <string name="chy"><b>ج / ش / ی / ض</b></string>
+    <string name="chyy"><b>ج / ش / ی </b></string>
+    <string name="zwad"><b> ض</b></string>
+    <string name="noon"><b>ل / ن / ر</b></string>
+    <string name="laam"><b>ل</b></string>
+    <string name="non"><b> ن </b></string>
+    <string name="ry"><b> ر</b></string>
+    <string name="ty"><b>ت / د / ط</b></string>
+    <string name="zoy"><b>ظ /  ذ /  ث / ص / ز / س</b></string>
+    <string name="z"><b>ظ /  ذ /  ث </b></string>
+    <string name="sen"><b> ص / ز / س</b></string>
+    <string name="meme"><b>م / ن / ف / ب / م / و / باَ / بوُ / بىِ</b></string>
+
+    <string name="mem"><b>م / نِ</b></string>
+    <string name="fy"><b>فِ</b></string>
+    <string name="by"><b> ب ِ</b></string>
+    <string name="mmem"><b> مِ</b></string>
+    <string name="wo"><b> وِ</b></string>
+    <string name="ba"><b> باَ / بوُ / بىِ</b></string>
+
+    <string name="Halqiyah">Halqiyahِ</string>
+    <string name="Lahatiyah">Lahatiyahِ</string>
+    <string name="Shajariyah_Haafiyah">Shajariyah-Haafiyahِ</string>
+    <string name="Tarfiyah">Tarfiyahِ</string>
+    <string name="Nit_eeyah">Nit-eeyahِ</string>
+    <string name="Lisaveyah">Lisaveyahِ</string>
+    <string name="Ghunna">Ghunna</string>
+
+
+    <string name="next">Next</string>
+    <string name="correctOption">Choose the correct option :</string>
+    <string name="variable"> </string>
+
+    <string name="rest">Result :</string>
+    <string name="correct_wrong"> </string>
+    <string name="correct"><b>Correct</b></string>
+    <string name="wrong"><b>Wrong</b></string>
+    <string name="correctAns">Correct Answer:</string>
+    <string name="ans"><b> </b></string>
+
+    <string name="score"><b>Your total Score is : </b></string>
+    <string name="showScore"> </string>
+    <string name="share"><b>Share your achievement </b></string>
+    <string name="shareBtn"><b>Share</b></string>
+
+
+    //Practice
+    <string name="practiceText"><b>Click on the following for practice :</b></string>
+    <string name="h1"><b> : End of Throat</b></string>
+    <string name="h2"><b> : Middle of Throat</b></string>
+    <string name="h3"><b> : Start of the Throat</b></string>
+
+    <string name="l1"><b> : Base of Tongue which is near Uvula touching the mouth roof</b></string>
+    <string name="l2"><b> : Portion of Tongue near its base touching the roof of mouth</b></string>
+
+    <string name="s1"><b> : Tongue touching the center of the mouth roof</b></string>
+    <string name="s2"><b> : One side of the tongue touching the molar teeth</b></string>
+
+    <string name="t1"><b> : Rounded tip of the tongue touching the base of the frontal 8 teeth</b></string>
+    <string name="t2"><b> : Rounded tip of the tongue touching the base of the frontal 6 teeth</b></string>
+    <string name="t3"><b> : Rounded tip of the tongue and some portion near it touching the base of the frontal 4 teeth</b></string>
+
+    <string name="t"><b> : Tip of the tongue touching the base of the front 2 teeth</b></string>
+
+    <string name="ll1"><b> : Tip of the tongue touching the tip of the frontal 2 teeth</b></string>
+    <string name="ll2"><b> : Tip of the tongue comes between the front top and bottom teeth</b></string>
+
+    <string name="g1"><b> : While pronouncing the ending sound of  م  or ن , bring the vibration to the nose</b></string>
+    <string name="g2"><b> : Tip of the two upper jaw teeth touches the inner part of the lower lip</b></string>
+    <string name="g3"><b> : Inner part of the both lips touch each other</b></string>
+    <string name="g4"><b> : Outer part of both lips touch each other</b></string>
+    <string name="g5"><b> : Rounding both lips and not closing the mouth</b></string>
+    <string name="g6"><b> : Mouth empty space while speaking words like  باَ بوُ بىِ</b></string>
+
+
+
+</resources>
