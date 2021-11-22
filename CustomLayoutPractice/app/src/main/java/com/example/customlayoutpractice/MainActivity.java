@@ -1,4 +1,4 @@
-dirpackage com.example.customlayoutpractice;
+package com.example.customlayoutpractice;
 
 import androidx.appcompat.app.AppCompatActivity;
 
