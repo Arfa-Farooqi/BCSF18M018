@@ -49,23 +49,23 @@ public class ExamPage extends AppCompatActivity implements View.OnClickListener{
                 startActivity(intent);
                 break;
             case R.id.Shajariyah:
-                intent = new Intent(ExamPage.this, Halqiyah.class);
+                intent = new Intent(ExamPage.this, Shajariyah.class);
                 startActivity(intent);
                 break;
             case R.id.Tarfiyah:
-                intent = new Intent(ExamPage.this, Halqiyah.class);
+                intent = new Intent(ExamPage.this, Tarfiyah.class);
                 startActivity(intent);
                 break;
             case R.id.Nit:
-                intent = new Intent(ExamPage.this, Halqiyah.class);
+                intent = new Intent(ExamPage.this, Nit.class);
                 startActivity(intent);
                 break;
             case R.id.Lisaveyah:
-                intent = new Intent(ExamPage.this, Halqiyah.class);
+                intent = new Intent(ExamPage.this, Lisaveyah.class);
                 startActivity(intent);
                 break;
             case R.id.Ghunna:
-                intent = new Intent(ExamPage.this, Halqiyah.class);
+                intent = new Intent(ExamPage.this, Ghunna.class);
                 startActivity(intent);
                 break;
 

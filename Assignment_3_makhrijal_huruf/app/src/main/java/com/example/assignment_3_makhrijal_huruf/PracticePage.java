@@ -1,9 +1,12 @@
 package com.example.assignment_3_makhrijal_huruf;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -58,6 +61,20 @@ public class PracticePage extends AppCompatActivity implements View.OnClickListe
         nit_eeyah.setOnClickListener(this);
         lisaveyah.setOnClickListener(this);
         ghunna.setOnClickListener(this);
+
+
+        Toolbar toolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+
+        //for up action
+        ActionBar ab = getSupportActionBar();
+        //if(ab!=null)
+            ab.setDisplayHomeAsUpEnabled(true);
+    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu, menu);
+        return true;
     }
 
     @Override

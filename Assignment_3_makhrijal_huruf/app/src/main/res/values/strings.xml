@@ -1,7 +1,13 @@
 <resources>
+
+    <string name="welcome"><b>WELCOME</b></string>
+    <string name="rollNo"><b>Roll # : BCSF18M018</b></string>
+    <string name="repo"><b>Go To Repository:</b></string>
+    <string name="link"><b>https://github.com/Arfa-Farooqi/BCSF18M018</b></string>
+
     <string name="app_name"> Assignment-3-Makhārij al-ḥurūf</string>
     <string name="title"><b>Makhārij Al-Hurūf</b></string>
-    <string name="statement">Choose any of the following :</string>
+    <string name="statement">To take the exam, click on the following :</string>
     <string name="exam">Exam</string>
     <string name="practice">Practice</string>
     <string name="aa"><b>أ / ہ</b></string>
@@ -83,7 +89,6 @@
     <string name="g4"><b> : Outer part of both lips touch each other</b></string>
     <string name="g5"><b> : Rounding both lips and not closing the mouth</b></string>
     <string name="g6"><b> : Mouth empty space while speaking words like  باَ بوُ بىِ</b></string>
-
 
 
 </resources>
