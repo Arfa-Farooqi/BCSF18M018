@@ -1,0 +1,2 @@
+rootProject.name = "Navigatio Bar"
+include ':app'
