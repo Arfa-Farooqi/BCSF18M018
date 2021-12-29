@@ -9,7 +9,6 @@ import android.widget.Button;
 public class ExamPage extends AppCompatActivity implements View.OnClickListener{
 
     Button halq;
-    Button halq1;
     Button lah;
     Button sha;
     Button tar;
